@@ -1,4 +1,5 @@
-# CCAPDEV-MCO
+# BudolFinds
+## A Web Application Development (DLSU CCAPDEV) project
 
 ## Heroku Deployment: 
 - Production: https://budolfinds.herokuapp.com/
